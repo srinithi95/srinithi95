@@ -8,7 +8,7 @@
 - 📫 Currently mentoring Biology majors to apply programming(Python) to analyse their samples efficiently. 
 
 Any new ideas and languages? Reach out to me at srinithi.ramachandran@gmail.com
-
+LinkedIn: https://www.linkedin.com/in/srinithi-ramachandran-815892120/
 
 
 
